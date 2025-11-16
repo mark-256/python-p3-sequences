@@ -1,0 +1,2 @@
+- Implement print_fibonacci function in lib/sequences.py
+- Run pytest -x to verify tests pass
